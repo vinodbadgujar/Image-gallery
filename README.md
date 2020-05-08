@@ -2,4 +2,4 @@
 
 Docker Project 
 
-In this docker project the static website of Image gallery is hosted using docker httpd image
+In this docker project the sample static website of Image gallery is hosted using docker httpd image
